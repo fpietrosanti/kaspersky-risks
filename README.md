@@ -28,7 +28,7 @@ Actually the Transparency Centers methods, including one-off source code analysi
 * Review of any software release, with analysis and re-inspection of code changes following a deterministic build, would require many man working years of senior security engineers to be effective
 * Technical Operations of Zurich Backend Infrastructure, Changes in the way data are processed and/or who's entitled to access those data, can't be oversee by endusers and/or can't be subject to ongoing basis (only one-off checks, in a controlled environment).
 
-Concluding, t's not possible trough Transparency Center to provide Security Gurantees against Russian Security Agencies coercion for cooperation.
+If those conclusions are technically considered valid, it would not be possible trough Kaspersky's Transparency Center inititive to provide Security Gurantees against Russian Security Agencies coercion for cooperation.
 
 In order to assess the risks of coercion from Russian Government of Russian Management, Owners, R&S and Technical Operations we have to evaluate whenever Kaspersky is a Russian Company or not:
 * Is Kaspersky a company who's Directors and Owners lives in Russia? Yes
@@ -36,6 +36,6 @@ In order to assess the risks of coercion from Russian Government of Russian Mana
 * Is the Kaspersky UK holding company fully owned and fully managed (directors) by Russian Resident and Russian Citizens? Yes
 * Is Kaspersky main market Russia? Yes* (According to [Deposited Balancesheet](https://twitter.com/fpietrosanti/status/1505509077132226561?s=20&t=92u84NnRqWf70NdPSFf6pw) roughly more than 40% of Commercial Credit is "CIS and Baltic" area)
 
-Starting from the assumption above, Kaspersky is a Russian Company that can be victim of coercion from Russian Government.
+Starting from the assumption above, Kaspersky is a Russian Company that can be victim of compelled cooperation from Russian Government.
 
 Note: Also Apple and Google has been victim of coercion from Russian Government, with Moscow based executive being harrassed by the FSB up until they successfully obtained their U.S. employee [forcefully removal the Navalny app](https://www.nytimes.com/2021/09/17/world/europe/russia-navalny-app-election.html)
