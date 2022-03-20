@@ -20,8 +20,8 @@ The Detection Risks for Russian Security Agencies is proportionate to how wide t
 * For Cloud Scanning and Database Acquisition 100% of actions could be done without possibility of detection by endusers
 * For Massive Actions, there's a high possibility of detection due to the disruptive measures
 * For Targeted Actions, there's very low possibilty of detections, being the Endpoint Protection Software in charge of detecting abuses:
-  * * For delivery of malicious updates via Bug Door is extremely difficult to detect it
-  * * For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the customer, there are chance of detection via application of senior software reverse engineering effort for each single update. Which organisation make individual verification of each update before deploying it by applying 5-10 man working days of senior software engineers?
+  * For delivery of malicious updates via Bug Door is extremely difficult to detect it
+  * For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the individual customer, there are chance of detection via application of senior software reverse engineering effort for each single update. 
 
 Actually the Transparency Centers methods, including one-off source code analysis, fail to deliver protection against all of the risks above represented:
 * Source code inspection to detect Bugdoor would require many man working years of seniors security engineers
@@ -33,9 +33,9 @@ Concluding, t's not possible trough Transparency Center to provide Security Gura
 In order to assess the risks of coercion from Russian Government of Russian Management, Owners, R&S and Technical Operations we have to evaluate whenever Kaspersky is a Russian Company or not:
 * Is Kaspersky a company who's Directors and Owners lives in Russia? Yes
 * Is Kaspersky a company who's majority of employee lives in russia? Yes
-* Is Kaspersky main market Russia? Yes* (According to Deposited Balancesheet roughly more than 40% of Credit is "CIS and Baltic")
 * Is the Kaspersky UK holding company fully owned and fully managed (directors) by Russian Resident and Russian Citizens? Yes
+* Is Kaspersky main market Russia? Yes* (According to [Deposited Balancesheet](https://twitter.com/fpietrosanti/status/1505509077132226561?s=20&t=92u84NnRqWf70NdPSFf6pw) roughly more than 40% of Commercial Credit is "CIS and Baltic" area)
 
 Starting from the assumption above, Kaspersky is a Russian Company that can be victim of coercion from Russian Government.
 
-Note: Also Apple and Google has been victim of coercion from Russian Government, with Moscow based executive being harrassed by the FSB up until they required their U.S. employee to remove the Navalny app https://www.nytimes.com/2021/09/17/world/europe/russia-navalny-app-election.html
+Note: Also Apple and Google has been victim of coercion from Russian Government, with Moscow based executive being harrassed by the FSB up until they successfully obtained their U.S. employee [forcefully removal the Navalny app](https://www.nytimes.com/2021/09/17/world/europe/russia-navalny-app-election.html)
