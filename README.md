@@ -1,5 +1,5 @@
 # kaspersky-risks
-Risk Evaluation of Kaspersky related Risks, if subject to forcefull cooperation by Russian Government for Intelligence and Military Purposes
+Risk Evaluation of Kaspersky related Risks, if subject to forceful cooperation by Russian Government for Intelligence and Military Purposes
 
 
 Brainstorming on possible tactical and strategic advantage of Russian Security Agencies compelling Kaspersky for cooperation:
