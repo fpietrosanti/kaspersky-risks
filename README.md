@@ -20,8 +20,8 @@ The Detection Risks for Russian Security Agencies is proportionate to how wide t
 * For Cloud Scanning and Database Acquisition 100% of actions could be done without possibility of detection by endusers
 * For Massive Actions, there's a high possibility of detection due to the disruptive measures
 * For Targeted Actions, there's very low possibilty of detections, being the Endpoint Protection Software in charge of detecting abuses:
-* * For delivery of malicious updates via Bug Door is extremely difficult to detect it
-* * For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the customer, there are chance of detection via application of senior software reverse engineering effort for each single update
+ * For delivery of malicious updates via Bug Door is extremely difficult to detect it
+ * For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the customer, there are chance of detection via application of senior software reverse engineering effort for each single update. Which organisation make individual verification of each update before deploying it by applying 5-10 man working days of senior software engineers?
 
 Actually the Transparency Centers methods, including one-off source code analysis, fail to deliver protection against all of the risks above represented:
 * Source code inspection to detect Bugdoor would require many man working years of seniors security engineers
