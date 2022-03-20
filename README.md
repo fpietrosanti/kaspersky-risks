@@ -13,7 +13,7 @@ Brainstorming on possible tactical and strategic advantage of Russian Security A
 * Delivery of a malicious updates on a targeted basis (only some specific endpoint or company or networks)
 
 Means to delivery of malicious updates:
-* Direct Backdoor Delivery: Download of a new malicious executable - Easy to be detected
+* Direct Backdoor Delivery: Download of a new malicious executable - Higher risk of detection on a "generalized basis" - Lower risks on a "targeted basis"
 * Indirect Bugdoor Delivery: Delivery of detection patterns updates, that trigger a complex exploit, leading to code execution - Survive Source Code Analysis 
 
 The Detection Risks for Russian Security Agencies is proportionate to how wide their actions in compelling Kaspersky could be:
