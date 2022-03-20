@@ -17,16 +17,18 @@ Means to delivery of malicious updates:
 * Indirect Bugdoor Delivery: Delivery of detection patterns updates, that trigger a complex exploit, leading to code execution - Survive Source Code Analysis 
 
 The Detection Risks for Russian Security Agencies is proportionate to how wide their actions in compelling Kaspersky could be:
-* For Cloud Scanning and Database Acquisition 100% of actions could be done without possibility of detection by endusers
+* For Cloud Scanning and Database Acquisition it's high likely all actions could be done without possibility of detection by endusers (Server Operations)
 * For Massive Actions, there's a high possibility of detection due to the disruptive measures and generally available executables
 * For Targeted Actions, there's very low possibilty of detections, being the Endpoint Protection Software in charge of detecting abuses:
-  * For delivery of malicious updates via Bug Door is extremely difficult to detect it
-  * For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the individual customer, there are chance of detection via application of senior software reverse engineering effort for each single update. 
+  * For delivery of malicious updates via Bug Door is extremely difficult, to the point of being nearly impossible in a real scenario, to detect it
+  * For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the individual customer, there are chance of detection via application of senior software reverse engineering effort for each single update.
 
 Actually the Transparency Centers methods, including one-off source code analysis, fail to deliver protection against all of the risks above represented:
 * Source code inspection to detect Bugdoors would require many man working years of seniors security engineers
 * Review of any software release, with analysis and re-inspection of code changes following a deterministic build, would require many man working years of senior security engineers to be effective
 * Technical Operations of Zurich Backend Infrastructure, Changes in the way data are processed and/or who's entitled to access those data, can't be oversee by endusers and/or can't be subject to ongoing basis (only one-off checks, in a controlled environment).
+
+The Russian Government abusing of Kaspersky compelled cooperation, would likely uses the "targeted action" like for "targeted 0day attacks", knowingly that the discovery of the attack would make ineffective the entire attack capability. Each "bullet" have to be carefully planned before beeing shoot.
 
 If those conclusions are technically considered valid, it would not be possible trough Kaspersky's Transparency Center inititive to provide Security Gurantees against Russian Security Agencies coercion for cooperation.
 
