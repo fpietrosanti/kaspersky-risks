@@ -8,6 +8,8 @@ Brainstorming on possible tactical and strategic advantage of Russian Security A
 * Acquire all meta-data of endusers (Cloud Scanning and Endpoint) to create a detailed data-taxonomy in the planning of future attacks
 * Disable the functionality of Updates on a targeted basis (only some specific endpoint or company or networks)
 * Disable the functionality of Protection on a targeted basis (only some specific endpoint or company or networks)
+* Disable the functionality of Updates on a generalized basis
+* Disable the functionality of Protection on a generalized basis
 * Search and Seize parametric / endpoint targeted files (Cloud Scanning and Endpoint)
 * Delivery of a malicious updates on a generalized basis (massive updates)
 * Delivery of a malicious updates on a targeted basis (only some specific endpoint or company or networks)
