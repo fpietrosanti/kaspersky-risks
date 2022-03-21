@@ -10,13 +10,16 @@ Brainstorming on possible tactical and strategic advantage of Russian Security A
 * Disable the functionality of Protection on a targeted basis (only some specific endpoint or company or networks)
 * Disable the functionality of Updates on a generalized basis
 * Disable the functionality of Protection on a generalized basis
-* Search and Seize parametric / endpoint targeted files (Cloud Scanning and Endpoint)
+* Search and Seize files on targeted parametric / endpoints (Cloud Scanning and Endpoint)
 * Delivery of a malicious updates on a generalized basis (massive updates)
 * Delivery of a malicious updates on a targeted basis (only some specific endpoint or company or networks)
 
 Means to delivery of malicious updates:
 * Direct Backdoor Delivery: Download of a new malicious executable - Higher risk of detection on a "generalized basis" - Lower risks on a "targeted basis"
 * Indirect Bugdoor Delivery: Delivery of detection patterns updates, that trigger a complex exploit, leading to code execution - Survive Source Code Analysis 
+
+Parametric Search and Seizer could be based on specific endpoint, on specific networks, on specific organizations, on specific files type, for example:
+* Send to Cloud Scanning all Microsoft Office document with Macro opened from the the (French Ministry of Defense| SWIFT Belgium Backoffice Financial Operator| AntiMoney Laundering Regulator of Germany) owned networks 
 
 The Detection Risks for Russian Security Agencies is proportionate to how wide their actions in compelling Kaspersky could be:
 * For Cloud Scanning and Database Acquisition it's high likely all actions could be done without possibility of detection by endusers (Server Operations)
